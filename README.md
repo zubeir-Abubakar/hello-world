@@ -1,7 +1,7 @@
 # Hello-World
 
 ## Authors
-- [ZUBEIR ABUBAKAR](git@github.com:zubeir-Abubakar)
+- [ZUBEIR ABUBAKAR](https://github.com/zubeir-Abubakar)
 - Add your clickable username here. It should point to your GitHub account. 
 
 ## Project setup instructions
